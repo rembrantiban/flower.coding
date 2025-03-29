@@ -33,7 +33,7 @@ body {
 .btn {
   position: fixed;
   bottom: 40px;
-  right: 140px;
+  right: 300px;
   z-index: 10;
 }
 button {
